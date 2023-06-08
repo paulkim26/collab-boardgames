@@ -68,7 +68,4 @@ The repository is now set up on your computer.
 
 ## Rules
 
-Pull requests must meet the following criteria to be accepted:
-
-- Follows filename convention (no random filenames)
-- Must be within project scope
+_TBD_
